@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/episods-with-mobx/static/css/main.f9193147.chunk.css",
+    "main.js": "/episods-with-mobx/static/js/main.c32b37f7.chunk.js",
+    "main.js.map": "/episods-with-mobx/static/js/main.c32b37f7.chunk.js.map",
+    "runtime-main.js": "/episods-with-mobx/static/js/runtime-main.e68f3fe0.js",
+    "runtime-main.js.map": "/episods-with-mobx/static/js/runtime-main.e68f3fe0.js.map",
+    "static/js/2.1b2f5392.chunk.js": "/episods-with-mobx/static/js/2.1b2f5392.chunk.js",
+    "static/js/2.1b2f5392.chunk.js.map": "/episods-with-mobx/static/js/2.1b2f5392.chunk.js.map",
+    "index.html": "/episods-with-mobx/index.html",
+    "precache-manifest.f451736b298a69d6d02250659d4479ee.js": "/episods-with-mobx/precache-manifest.f451736b298a69d6d02250659d4479ee.js",
+    "service-worker.js": "/episods-with-mobx/service-worker.js",
+    "static/css/main.f9193147.chunk.css.map": "/episods-with-mobx/static/css/main.f9193147.chunk.css.map",
+    "static/js/2.1b2f5392.chunk.js.LICENSE.txt": "/episods-with-mobx/static/js/2.1b2f5392.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e68f3fe0.js",
+    "static/js/2.1b2f5392.chunk.js",
+    "static/css/main.f9193147.chunk.css",
+    "static/js/main.c32b37f7.chunk.js"
+  ]
+}
