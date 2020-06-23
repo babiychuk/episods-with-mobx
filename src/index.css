@@ -1,0 +1,32 @@
+.episode {
+  cursor: pointer;
+  margin: 5px
+}
+
+.episode:hover { background-color: rgb(27, 167, 113)}
+
+.episodModal{padding:10px}
+
+.fl-right{
+  float: right;
+}
+
+.fl-Left{
+  float: left;
+}
+
+.filter {  
+  background: #4eb2bc;
+  box-shadow: 0px 3px 8px 0px rgba(0, 0, 0, 0.40);
+}
+
+.filter_container {
+  display: flex;
+  align-items: center;
+  min-height: 50px;
+  justify-content: space-between;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 50px;
+}
+
